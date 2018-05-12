@@ -33,6 +33,8 @@ description: "The Lancashire Witches is the only one of William Harrison Ainswor
   \ Modern critics such as David Punter consider the book to be Ainsworth's best work.\
   \ E. F. Bleiler rated the novel as \"one of the major English novels about witchcraft\"\
   .\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15493#The-Lancashire-WitchesA-Romance-of-Pendle-Forest
 gutenberg_bookshelf: Historical Fiction
 gutenberg_issued: '2005-03-29'
 gutenberg_type: Text
