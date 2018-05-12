@@ -1,0 +1,53 @@
+_repo: The-Lancashire-WitchesA-Romance-of-Pendle-Forest_15493
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Gilbert, John
+    alias: Gilbert, Sir John
+    birthdate: 1817
+    deathdate: 1897
+    gutenberg_agent_id: '31359'
+    url: http://www.gutenberg.org/2009/agents/31359
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ainsworth, William Harrison
+    aliases:
+    - Ticheburn, Cheviot
+    - Ainsworth, W. H. (William Harrison)
+    - Ainsworth, Harrison
+    - Ainsworth, W. Harrison (William Harrison)
+    - Ainworth, W. Harrison (William Harrison)
+    birthdate: 1805
+    deathdate: 1882
+    gutenberg_agent_id: '1056'
+    url: http://www.gutenberg.org/2009/agents/1056
+    wikipedia: http://en.wikipedia.org/wiki/William_Harrison_Ainsworth
+description: "The Lancashire Witches is the only one of William Harrison Ainsworth's\
+  \ forty novels that has remained continuously in print since its first publication.\
+  \ It was serialised in the Sunday Times newspaper in 1848; a book edition appeared\
+  \ the following year, published by Henry Colburn. The novel is based on the true\
+  \ story of the Pendle witches, who were executed in 1612 for causing harm by witchcraft.\
+  \ Modern critics such as David Punter consider the book to be Ainsworth's best work.\
+  \ E. F. Bleiler rated the novel as \"one of the major English novels about witchcraft\"\
+  .\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2005-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15493'
+  wikidata: Q7745322
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Witches -- Fiction'
+- !lcsh 'Lancashire (England) -- Fiction'
+- !lcc 'PR'
+title: 'The Lancashire Witches: A Romance of Pendle Forest'
+url: http://www.gutenberg.org/ebooks/15493
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Lancashire_Witches
